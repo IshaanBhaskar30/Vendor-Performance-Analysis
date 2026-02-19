@@ -69,3 +69,5 @@ Python | Pandas | NumPy | SQL (SQLite) | Matplotlib | Seaborn | SciPy | Statsmod
     - Data-driven decision-making
     
     - Ability to translate analytics into executive recommendations
+
+Note: Raw datasets are not included in this repository due to size limitations.
